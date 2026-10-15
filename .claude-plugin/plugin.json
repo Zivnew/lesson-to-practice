@@ -1,0 +1,9 @@
+{
+  "name": "lesson-to-practice",
+  "description": "Turn one lesson's slides (.pptx or .pdf) into a student practice sheet: graded exercises, a find-the-bug exercise and a separate answer key, in the slides' language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Zivnew"
+  },
+  "keywords": ["teaching", "education", "practice", "worksheet", "slides"]
+}
