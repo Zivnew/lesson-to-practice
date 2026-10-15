@@ -1,0 +1,14 @@
+{
+  "name": "zivnew-skills",
+  "owner": {
+    "name": "Zivnew"
+  },
+  "plugins": [
+    {
+      "name": "lesson-to-practice",
+      "source": "./",
+      "description": "Turn one lesson's slides into a student practice sheet with graded exercises, a find-the-bug exercise and an answer key.",
+      "version": "1.0.0"
+    }
+  ]
+}
